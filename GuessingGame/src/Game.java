@@ -7,6 +7,8 @@ public class Game
 		u.CollectNumberFromGuesser();
 		u.CollectNumberFromPlayers();
 		u.CompareNumber();
+		System.out.println("Thanks for playing game");
+		
 	}
 
 }
